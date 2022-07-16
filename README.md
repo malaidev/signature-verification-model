@@ -4,7 +4,7 @@ Simple Signature Verification Model
 1. Clone repo
 
 ```shell
-git clone https://github.com/Coinracer-io/signature-verification-model.git
+git clone https://github.com/IntelMin/signature-verification-model.git
 ```
 
 2. Install yarn packages
